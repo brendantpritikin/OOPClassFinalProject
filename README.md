@@ -9,9 +9,11 @@ Root folder: CardGameFinal Project
 
 Children: 
 
-a. out/
-b. src/
-c. CardGameFinalProject.iml (in repo)
+a. out/ 
+
+b. src/ 
+
+c. CardGameFinalProject.iml (in repo) 
 
 a. - out:
 
