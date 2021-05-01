@@ -15,15 +15,19 @@ b. src/
 
 c. CardGameFinalProject.iml (in repo) 
 
-a. - out:
+-----------
+Folder contents:
+
+
+a. - .../out:
 
 1. production/
 
-production:
+.../out/production:
 
 1. CardGameFinalProject/
 
-CardGameFinalProject:
+.../out/production/CardGameFinalProject:
 
 1. Card.class (in repo)
 2. CommunityCardSet.class (in repo)
@@ -36,7 +40,7 @@ CardGameFinalProject:
 9. StudPokerHandTester.class (in repo)
 10. Testing.class (in repo)
 
-b. - src:
+b. - .../src:
 
 1. Card.java (in repo)
 2. CommunityCardSet.java (in repo)
@@ -49,8 +53,8 @@ b. - src:
 9. StudPokerHandTester.java (in repo)
 10. Testing.java (in repo)
 
-c. - CardGameFinalProject.iml
+c. - .../CardGameFinalProject.iml
 
-1. place in root folder, as listed above.
+1. place in root folder.
 
 --------------------------------------------
