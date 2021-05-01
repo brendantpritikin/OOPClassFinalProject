@@ -1,7 +1,7 @@
 # OOPClassFinalProject
 Come play a super-simplified version of stud poker!
 
-This is the final version of a class project from an introductory programming course, taken Fall 2020.
+This is the final version of a class project from an introductory programming course, taken Fall, 2020.
 
 To run the game, create the following file structure and open with a Java IDE (like IntelliJ), and run the "Main.java" file.
 
